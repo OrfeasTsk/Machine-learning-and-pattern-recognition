@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrfeasTsk/machine-learning-and-pattern-recognition/blob/main/Gradient_Descent_And_ML_Mathematics.ipynb)
 
-In this project one goal is to understand the essential mathematics of machine learning by verifying the results with the numpy library. 
+In this project the main goal is to understand the essential mathematics of machine learning by verifying the results with the numpy library. 
 There is also a simulation of gradient decent algorithm for optimizing mathematical functions comparing the results of some experiments done for different parameters as well.
 
 # Project 2 - Face Recognition & Regression Mathematics
