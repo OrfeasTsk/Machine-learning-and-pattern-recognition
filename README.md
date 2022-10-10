@@ -10,5 +10,5 @@ There is also a simulation of gradient decent algorithm for optimizing mathemati
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrfeasTsk/machine-learning-and-pattern-recognition/blob/main/Face_Recognition_And_Regression_Mathematics.ipynb)
 
 In this project the goal is to understand the mathematics behind regression, especially for the logistic and ridge regression. Also the core of this project is associated with
-a face recognition problem using the Yale B dataset. The solution of this problem is based on the Eigenfaces method which is a combination of the KNN classification method and the PCA dimensionality reduction method that are implemented from scratch using
-the numpy library. Also some experiments have been done in order to estimate the efficiency of the Eigenfaces method and to detect possible problems (e.g loss of information).
+a face recognition problem using the Yale B dataset. The solution of this problem is implemented from scratch using
+the numpy library and it is based on the Eigenfaces method which is a combination of the KNN classification method and the PCA dimensionality reduction method. Also some experiments have been done in order to estimate the efficiency of the Eigenfaces method and to detect possible problems (e.g loss of information).
