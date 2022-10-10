@@ -1,13 +1,13 @@
 # Machine-learning-and-pattern-recognition
 
-# Project 1 - Gradient Descent And ML Mathematics
+# Project 1 - Gradient Descent & ML Mathematics
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrfeasTsk/machine-learning-and-pattern-recognition/blob/main/Gradient_Descent_And_ML_Mathematics.ipynb)
 
 In this project the goal is to understand the essential mathematics of machine learning by verifying the results with the numpy library. 
 There is also a simulation of gradient decent algorithm for optimizing mathematical functions comparing the results of some experiments done for different parameters as well.
 
-# Project 2 - Face Recognition And Regression Mathematics
+# Project 2 - Face Recognition & Regression Mathematics
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrfeasTsk/machine-learning-and-pattern-recognition/blob/main/Face_Recognition_And_Regression_Mathematics.ipynb)
 
